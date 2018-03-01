@@ -1,1 +1,7 @@
 remote_theme: TaylanTatli/Moon
+
+logo: 'assets/img/logo.png'
+background: ''
+
+jekyll-mentions:
+  base_url: https://github.com
