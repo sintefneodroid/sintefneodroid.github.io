@@ -1,11 +1,7 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Documentation
+  url: /documentation/
   
 - title: Environments
-  url: https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy?usp=sharing
-  redirect_from:
-  - /environments/ls
-  redirect_to:
-  - https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy?usp=sharing
+  url: https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy

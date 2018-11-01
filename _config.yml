@@ -1,4 +1,4 @@
-remote_theme: TaylanTatli/Moon
+remote_theme: cnheider/Moon
 
 logo: 'assets/img/logo.png'
 background: ''
@@ -8,3 +8,4 @@ jekyll-mentions:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-remote-theme

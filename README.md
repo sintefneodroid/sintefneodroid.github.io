@@ -1,4 +1,6 @@
-# Neodroid
+# Neodroid Github Project Page
+
+## [neodroid.ml](http://neodroid.ml)
 
 <table>
    <tr>
@@ -29,7 +31,3 @@
      </td>
   </tr>
 </table>
-
-- [agent](https://github.com/sintefneodroid/agent)
-- [neo](https://github.com/sintefneodroid/neo)
-- [droid](https://github.com/sintefneodroid/droid)
