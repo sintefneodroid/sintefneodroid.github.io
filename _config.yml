@@ -1,7 +1,9 @@
 remote_theme: cnheider/Moon
 
+title: 'Neodroid Landing'
 logo: 'assets/img/logo.png'
 background: ''
+url: 'http://neodroid.ml'
 
 jekyll-mentions:
   base_url: https://github.com

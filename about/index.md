@@ -1,0 +1,1 @@
+Neodroid is a reinforcement learning and data generation, enabling platform for games and research.
