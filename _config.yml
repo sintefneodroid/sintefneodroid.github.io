@@ -11,3 +11,5 @@ jekyll-mentions:
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
+  
+exclude: [vendor]
