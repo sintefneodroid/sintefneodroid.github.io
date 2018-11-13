@@ -1,9 +1,49 @@
 remote_theme: cnheider/Moon
 
-title: 'Neodroid Landing'
+title: 'Neodroid Project Landing Page'
+bio:                'Reinforcement Learning Platform.'
+description:        "Neodroid is a reinforcement learning platform, enabling rapid prototyping of and
+research in reinforcement learning environments."
 logo: 'assets/img/logo.png'
 background: ''
-url: 'http://neodroid.ml'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+reading_time:       true
+words_per_minute:   200
+locale:             en_GB
+url: 'https://neodroid.ml'
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+
+# Comments
+#disqus_shortname:   taylantatli
+
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#email:             user@server.org
+facebook:           neodroid
+#youtube:           UCyHYCEQR2kYYh_XLWNZ_Lng
+#keybase:           username
+#medium:            '@username'
 
 jekyll-mentions:
   base_url: https://github.com
@@ -11,7 +51,26 @@ jekyll-mentions:
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
+whitelist:
+  - jekyll-redirect-from
 
-exclude: [vendor,README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude: [vendor,
+          README.md,
+          Gemfile,
+          Gemfile.lock,
+          node_modules,
+          gulpfile.js,
+          package.json,
+          _site,
+          src,
+          vendor,
+          CNAME,
+          LICENSE,
+          Rakefile,
+          redirects.json]
 
