@@ -1,7 +1,14 @@
 # Site navigation links
 
+- title: Setup
+  url: /setup/
+ 
+- title: Tutorials
+  url: https://www.youtube.com/playlist?list=PLp0v5E8kklG8XzRSw8aR0_Rf0IQ0KMSlA
+
 - title: Documentation
   url: https://documentation.neodroid.ml
   
 - title: Environments
-  url: https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy
+  url: http://environments.neodroid.ml
+  #url: https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy
