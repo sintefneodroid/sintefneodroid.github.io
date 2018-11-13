@@ -11,6 +11,7 @@ jekyll-mentions:
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
-  
+
+
 exclude: [vendor,README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
 

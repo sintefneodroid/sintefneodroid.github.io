@@ -2,13 +2,23 @@
 
 - title: Setup
   url: /setup/
- 
+
+
+- title: Projects
+  url: /projects/
+
 - title: Tutorials
   url: https://www.youtube.com/playlist?list=PLp0v5E8kklG8XzRSw8aR0_Rf0IQ0KMSlA
+  redirect_from:
+  - /tutorials
 
 - title: Documentation
   url: https://documentation.neodroid.ml
-  
+  redirect_from:
+  - /documentation
+
 - title: Environments
   url: http://environments.neodroid.ml
+  redirect_from:
+  - /environments
   #url: https://drive.google.com/drive/folders/17wRNLz_eSQfRw82PNwxGcCS0CaPL8VCy
