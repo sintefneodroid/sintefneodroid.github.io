@@ -1,5 +1,12 @@
 # Neodroid Github Project Page
 
+---
+
+_[Neodroid](https://github.com/sintefneodroid) is developed with support from Research Council of Norway Grant #262900. ([https://www.forskningsradet.no/prosjektbanken/#/project/NFR/262900](https://www.forskningsradet.no/prosjektbanken/#/project/NFR/262900))_
+
+---
+
+
 ## [neodroid.ml](http://neodroid.ml)
 
 <table>
