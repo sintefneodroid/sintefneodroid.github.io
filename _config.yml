@@ -4,7 +4,7 @@ title:              'Neodroid Project Landing Page'
 bio:                'Reinforcement Learning Platform.'
 description:        'Neodroid is a reinforcement learning platform, enabling rapid prototyping of and
 research in reinforcement learning environments.'
-logo:               'assets/img/neodroid.png'
+neodroid_logo:      'assets/img/neodroid.png'
 sintef_logo:        'assets/img/sintef.png'
 frno_logo:          'assets/img/frno.png'
 background:         ''
