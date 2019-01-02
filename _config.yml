@@ -4,9 +4,9 @@ title:              'Neodroid Project Landing Page'
 bio:                'Reinforcement Learning Platform.'
 description:        'Neodroid is a reinforcement learning platform, enabling rapid prototyping of and
 research in reinforcement learning environments.'
-logo:               'assets/img/logo.png'
-sintef_logo:        ''
-frno_logo:          ''
+logo:               'assets/img/neodroid.png'
+sintef_logo:        'assets/img/sintef.png'
+frno_logo:          'assets/img/frno.png'
 background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 reading_time:       true
