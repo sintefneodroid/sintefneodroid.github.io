@@ -8,3 +8,10 @@
   /*height:180px;*/
   width:80px;
 }
+
+body {
+  background-color: #ffffff;
+  background-image: radial-gradient(closest-side at 60% 55%, #FFFFFF, #f2f2f2);
+  background-size: auto auto;
+  background-position: center;
+}
