@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tutorial"
-date: 2019-0-14
+date: 2019-01-14
 excerpt: "In this very simple tutorial.."
 comments: false
 ---
