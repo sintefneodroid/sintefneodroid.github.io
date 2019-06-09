@@ -1,16 +1,16 @@
 # Site navigation links
 
 - title: Setup
-  url: /setup/
+  url:   /setup/
 
 - title: Projects
-  url: /projects/
+  url:   /projects/
 
 - title: Tutorials
-  url: /external/tutorials
+  url:   /external/tutorials
 
 - title: Documentation
-  url: /external/documentation
+  url:   /external/documentation
 
 - title: Environments
-  url: /external/environments
+  url:   /external/environments

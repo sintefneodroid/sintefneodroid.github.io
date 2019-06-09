@@ -7,7 +7,7 @@ research in reinforcement learning environments.'
 neodroid_logo:      'assets/img/neodroid.png'
 sintef_logo:        'assets/img/sintef.png'
 frno_logo:          'assets/img/frno.png'
-discrod_logo:       'assets/img/discord.png'
+discord_logo:       'assets/img/discord.png'
 background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 reading_time:       true

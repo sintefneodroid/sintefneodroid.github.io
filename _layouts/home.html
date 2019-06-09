@@ -12,9 +12,9 @@ layout: compress
 <html class='no-js'><!--<![endif]-->
   <head>
     {% include head.html %}
-     <link rel = 'stylesheet'
-   type = 'text/css'
-   href = '{{ site.url }}/assets/css/extras.css' />
+    <link href='{{ site.url }}/assets/css/extras.css?v=0'
+          rel='stylesheet'
+          type='text/css'/>
   </head>
   <body>
     {% include nav.html %}
@@ -23,7 +23,7 @@ layout: compress
       <div class='container animated fadeIn'>
         <div class='row'>
           <a href='{{ site.url }}'>
-            <img src='{{ site.neodroid_logo }}' class='zoombtn'>
+            <img class='zoombtn' src='{{ site.neodroid_logo }}'>
           </a>
           <h3 class='title'>
             <a class='logo_img zoombtn' href='{{ site.url }}'>
@@ -53,9 +53,22 @@ layout: compress
             </a>
           </h3>
           <hr class='hr-line'>
-          <img src='{{ site.sintef_logo }}' class='footer_logo_img zoombtn'>
-          <img src='{{ site.frno_logo }}' class='footer_logo_img zoombtn'>
-          <a href='https://discord.gg/GrqwXrv'><img src='{{site.discord_logo}}' alt='Discord'></a>
+          <h3 class='title'>API</h3>
+          <h3 class='title'>
+            <a class='btn zoombtn' href='{{ site.url }}/external/neo'>
+              Neo
+            </a>
+            <a class='btn zoombtn' href='{{ site.url }}/external/droid'>
+              Droid
+            </a>
+            <a class='btn zoombtn' href='{{ site.url }}/external/agent'>
+              Agent
+            </a>
+          </h3>
+          <hr class='hr-line'>
+          <img class='footer_logo_img zoombtn' src='{{ site.sintef_logo }}'>
+          <img class='footer_logo_img zoombtn' src='{{ site.frno_logo }}'>
+          <a href='https://discord.gg/GrqwXrv'><img alt='Discord' src='{{site.discord_logo}}'></a>
           {% include social-links.html %}
         </div>
       </div>

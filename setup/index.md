@@ -21,7 +21,8 @@ neodroid-mab
 
 ### neodroid-mab
 neodroid-mab is a small demo of Reinforcement Learning experiment
-En vindue med tre farvede bokse skulle vise sig og blinke løs, hvad man så kigger på er en instans af Multi-Armed-Bandit problemmet.
+En vindue med tre farvede bokse vil vise sig og blinke løs, hvad man så kigger på er en instans af 
+Multi-Armed-Bandit problemmet.
 
 Her er en lærende process prøver at finde og vælge de(n) mest værdifulde boks(e). Hver boks har en chance for at udløse en gevindst af en defineret størrelse, gevindstchancen og gevindststørrelsen er variende fra boks til boks men konstant under afviklingen af forsøget.
 
