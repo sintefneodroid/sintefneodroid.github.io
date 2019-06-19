@@ -9,12 +9,11 @@ comments: false
 Neodroid is a reinforcement learning and data generation, enabling platform for games and research.
 
 
-Description
-Neodroid platform is build to support the process of prototyping and experimentation with 
-reinforcement learning, but it is also used for generating data on demand or compiling datasets for other learning paradigms.
+Beskrivelse
+Neodroid platform er bygget til at supportere en process af prototype bygning og experimentation med 
+reinforcement learning, men kan med fordel også bruges til at kompilere dataset til andre læringsparadigmer.
 
-For supervised computer vision problems, kan man med fordel udnytte Neodroids allerede implementeret 
-funktionalitet til at lave domænerandomisering, igennem permutioner af lysforhold, overflade teksture, størrelser, rotationer og meget mere.
+Til supervised computer vision problemmer, kan man med fordel udnytte Neodroids allerede implementeret funktionalitet til at lave domænerandomisering, igennem permutioner af lysforhold, overflade teksture, størrelser, rotationer og meget mere.
 
 Platformen har 2 essentielle dele
 Unity delen (Kodenavn: Droid) 
