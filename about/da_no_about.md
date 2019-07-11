@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Neodroid
+title: About Neodroid Danish/Norwegian
 tags: [about, Jekyll, theme, moon]
 date: 2018-11-13
 comments: false
