@@ -7,7 +7,8 @@ _[Neodroid](https://github.com/sintefneodroid) is developed with support from Re
 ---
 
 
-## [neodroid.ml](http://neodroid.ml)
+
+
 
 <table>
    <tr>
