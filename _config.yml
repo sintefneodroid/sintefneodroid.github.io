@@ -13,7 +13,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 reading_time:       true
 words_per_minute:   200
 locale:             en_GB
-url:                'https://neodroid.ml'
+url:                'https://sintefneodroid.github.io'
 
 # Jekyll
 permalink:          /:title/
